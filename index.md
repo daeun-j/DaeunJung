@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 <!--### Research Interests-->
 My research interests focus on **federated and adaptive machine learning**, with an emphasis on understanding
 how models learn, reason, and update their knowledge under **data heterogeneity and distribution shifts**.
