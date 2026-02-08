@@ -10,6 +10,8 @@ description: >
   <a href="mailto:daeunj@umd.edu">Email</a>
   &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/daeun-jung-6b86771a6/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/daeun-j/">Github</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
