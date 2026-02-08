@@ -1,12 +1,15 @@
 <!--### Research Interests-->
-My research interests primarily focus on **extracting representative features** to better understand learning mechanisms and improve inference, with a particular emphasis on **time-series data**.  
-I am interested in learning scenarios where information is **partially observed** and data distributions **change over time**, and I study how meaningful information can be inferred under such conditions.
+My research interests focus on **federated and adaptive machine learning**, with an emphasis on understanding
+how models learn, reason, and update their knowledge under **data heterogeneity and distribution shifts**.
+I am particularly interested in settings where data are **non-IID, partially observed, and dynamically evolving**,
+and how learning systems can remain reliable in such environments.
 
-My research interests include:
+My current research interests include:
 
-* Extracting key features under **data distribution shifts**
-* Understanding **causal relationships and dependencies** among variables in time-series data
-* Adapting **federated learning** frameworks to overcome data imbalance and heterogeneity in time-series settings
+* Learning **representative and decision-oriented features** under data imbalance and distribution shifts
+* Understanding and improving **reasoning behavior** in learning systems across heterogeneous clients
+* Developing **unlearning-aware federated learning algorithms** to handle outdated, biased, or harmful information
+
 
 <!--### Publications-->
 ## Research
