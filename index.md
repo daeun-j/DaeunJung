@@ -2,27 +2,23 @@
 
 I am a Ph.D. student in Computer Science at the **University of Maryland, College Park**, advised by **Prof. Ang Li**.
 
-My research focuses on **trustworthy and reliable AI**, particularly how AI systems learn from uncertain information, update their beliefs, and make decisions that can be verified.
+My research focuses on **trustworthy AI**, with a particular interest in how AI systems handle uncertainty, learn from data, and make decisions based on incomplete or imperfect information.
 
-I am interested in a fundamental question:
+One question that drives my research is: **How can we tell whether an AI system's decisions are genuinely supported by the information it has learned or observed?**
 
-**How can we trust an AI system's decisions when the information it learns from or relies on may be incomplete, uncertain, or misleading?**
+I have explored this question from different perspectives. In **machine unlearning**, I study whether models actually remove the influence of training data or simply stop producing certain outputs. In **genomic privacy**, I investigate how sensitive information can be exposed through learned models. More recently, I have been working on **clinical AI agents**, focusing on how they interpret uncertain patient responses, decide what information to gather next, and verify that their conclusions are supported by clinical evidence.
 
-My work spans **large language models, machine unlearning, causal data influence, and clinical AI**. I study how to distinguish genuine knowledge removal from behavioral suppression, how sensitive information influences foundation models, and how AI agents can reason reliably under uncertain observations.
+Beyond model reliability, I am also interested in making large-scale AI systems more efficient. My experience includes optimizing LLM inference through **CUDA/HIP kernels, speculative prefill, and KV-cache optimization**.
 
-More recently, my research has focused on **uncertainty-aware clinical reasoning and evidence-grounded verification**, including adaptive information gathering, open-world diagnostic reasoning, and reliable medical image analysis.
-
-I also have experience in **large-scale LLM inference optimization**, including CUDA/HIP kernel development, speculative prefill, and KV-cache optimization.
+Ultimately, I want to develop AI systems that can reason reliably under uncertainty, recognize when they need more information, and provide decisions that we can meaningfully verify.
 
 ### Research Interests
 
-My current research interests include:
-
-- **Trustworthy AI & Causal Data Influence:** Understanding how training data shapes model behavior, distinguishing correlation from causal influence, and developing reliable evaluation methods for machine unlearning.
-- **Uncertainty-Aware Reasoning & AI Agents:** Modeling ambiguous observations, maintaining calibrated beliefs, and selecting useful information through sequential decision-making.
-- **Clinical AI & Evidence-Grounded Verification:** Developing reliable diagnostic agents, open-world clinical reasoning, and verifiable medical imaging pipelines.
-- **Privacy-Preserving Machine Learning:** Studying privacy leakage and information control in genomic foundation models and distributed learning systems.
-- **Efficient LLM Systems:** Improving inference efficiency through GPU kernel optimization, speculative execution, and memory-efficient computation.
+- **Trustworthy AI & Machine Unlearning:** Understanding how training data influences model behavior, distinguishing genuine knowledge removal from behavioral suppression, and developing methods to evaluate these effects.
+- **Uncertainty-Aware Reasoning & AI Agents:** Representing uncertain evidence, updating beliefs, and deciding what information to seek during multi-step reasoning.
+- **Clinical AI & Evidence-Grounded Verification:** Building diagnostic agents that handle incomplete patient information and verifying clinical findings against medical evidence.
+- **Privacy-Preserving Machine Learning:** Investigating privacy leakage and information control in genomic foundation models and distributed learning.
+- **Efficient LLM Inference:** Improving inference performance through GPU kernel optimization, speculative prefill, and memory-efficient computation.
 
 ## Research & Publications
 
