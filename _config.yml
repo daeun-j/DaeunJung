@@ -1,19 +1,22 @@
-title: Daeun Jung # your name (or website title) here
+title: Daeun Jung
 
-logo: "/images/daeunj_2.png?raw=true" # your photo (or logo) here
+logo: "/images/daeunj_2.png?raw=true"
+
 description: >
   I am Daeun (Dah-Unn) Jung, a Ph.D. student in the Department of Computer Science at the University of Maryland, College Park, working with Ang Li.
   Prior to UMD, I received my B.S. and M.S. degrees in Electrical Engineering from Ewha Womans University.
   <br><br>
-  <a href="https://drive.google.com/file/d/1oBfRfJDUmeQmQAKObAdsIsKAWq8wq4Ls/view?usp=sharing">CV</a>
+  <a href="https://raw.githubusercontent.com/daeun-j/DaeunJung/master/pdf/DaeunJung_CV.pdf" target="_blank">CV</a>
   &nbsp;|&nbsp;
   <a href="mailto:daeunj@umd.edu">Email</a>
   &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/daeun-jung-6b86771a6/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/daeun-jung-6b86771a6/" target="_blank">LinkedIn</a>
   &nbsp;|&nbsp;
-  <a href="https://github.com/daeun-j/">Github</a>
+  <a href="https://github.com/daeun-j/" target="_blank">GitHub</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
+
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+
+google_analytics: UA-000000-0
