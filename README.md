@@ -1,51 +1,35 @@
-## Developer Portfolio Landing Page Template
+# Daeun Jung
 
-### Introduction
+I study how AI systems reason and make decisions under uncertainty, with a focus on federated learning, privacy, and evidence-grounded verification.
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Research
 
-<img src="images/demo.gif?raw=true"/>
+### Federated Reasoning and Optimization
+I investigate federated group relative policy optimization (GRPO) and how heterogeneous reward signals affect reasoning across distributed participants.
 
-### Installation
+### Genomic Foundation Models
+I study attacks and defenses in federated learning with genomic foundation models, focusing on privacy leakage and the risks associated with sensitive, related individuals’ data.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+### LLM Auditing and Unlearning
+I investigate how to identify and reduce a model’s contribution from data targeted for removal, including approaches that operate at inference time.
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+### Reliable Reasoning under Uncertainty
+I explore how AI systems can select useful information, verify intermediate decisions against evidence, and recover from earlier errors when observations are ambiguous or knowledge is incomplete.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Directions
 
-### Markdown
+- Active question selection and premise-based question generation
+- Risk control when revising diagnostic decisions
+- Lesion-level attribution of imaging findings
+- Information acquisition policies for sequential reasoning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About This Website
 
-```markdown
-Syntax highlighted code block
+This website presents my research projects and academic work.
 
-# Header 1
-## Header 2
-### Header 3
+Built with Jekyll and the Minimal theme for GitHub Pages.
 
-- Bulleted
-- List
+## Acknowledgments
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+- [Minimal Jekyll Theme](https://github.com/pages-themes/minimal)
+- [Quick Portfolio Template](https://github.com/evanca/quick-portfolio)
